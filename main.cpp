@@ -1,4 +1,5 @@
-#include 
+#include <iostream>
+#include <string>
 #include using namespace std;
 
 class BankAccount { private: int accNo; char name[50]; float balance;
